@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abhishek Keshari (@abhi311998)
-- 👀 I’m interested in Machine Learning, Automation, Data Engineering
-- 🌱 I’m currently learning Spark
-- 💞️ I’m looking to collaborate on projects having Data Engineering roles
+- 👀 I’m interested in Software Development mainly focused on Python/Golang.
+- 🌱 Also interested in Automation, Data Engineering.
+- 💞️ I’m looking to collaborate on projects having Software Engineering & Data Engineering roles.
 - 📫 You can reach me @ abhikeshari98@gmail.com
